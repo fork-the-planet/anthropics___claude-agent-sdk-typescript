@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.204
+
+- Updated to parity with Claude Code v2.1.204
+
 ## 0.3.203
 
 - Added a `background_tasks_changed` system message with the full set of live background tasks on every membership change, so consumers can track background activity as a level instead of pairing `task_started`/`task_notification` edges
